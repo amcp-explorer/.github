@@ -8,5 +8,5 @@
 
 Будет дополняться по ходу появления новых репозиториев.
 
-- [Доска задач](https://github.com/orgs/amcp-explorer/projects/3) или [список](https://github.com/amcp-explorer/amcp-explorer-docs/issues)
+- [Доска задач](https://github.com/orgs/amcp-explorer/projects/3) или [список](https://github.com/amcp-explorer/amcp-explorer-docs/issues) (лучше второе)
 - [Репозиторий с заметками по проекту](https://github.com/amcp-explorer/amcp-explorer-docs)
